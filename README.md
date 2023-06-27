@@ -3,4 +3,4 @@ Some thing.
 
 ## subheader
 
-some text
+some text.
